@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Taslim Yusuf
 
-<!--
-**toy-eng/toy-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Frontend Web Engineer with a strong computer science foundation, focused on building reliable, performance-driven web applications and scalable system architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Core
+
+* **Frontend Engineering:** React, Angular, TypeScript, JavaScript (ES6+), HTML5/CSS3, Tailwind CSS, Vite
+* **State & Data Management:** TanStack React Query, Zustand, Context API, RxJs, REST APIs, WebSockets
+* **System & Architecture:** Modular Component Design, Core Web Vitals Optimization, Node.js, Express.js, MongoDB
+
+---
+
+📫 **Connect & Portfolio:** 
+* **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/toy-eng)
+* **X:** [Visit My X](https://x.com/toy-eng)
