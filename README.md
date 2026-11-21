@@ -15,4 +15,4 @@ A Frontend Web Engineer with a strong computer science foundation, focused on bu
 📫 **Connect & Portfolio:** 
 * **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/toy-eng)
 * **X:** [Visit My X](https://x.com/toy-eng)
-* **Portfolio:** [Visit My X](https://taslimyusuf.cv)
+* **Portfolio:** [Visit My Portfolio Website](https://taslimyusuf.cv)
